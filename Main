@@ -89,3 +89,4 @@ game.StarterGui:SetCore(
         Font = Enum.Font.Arial, 
         FontSize = Enum.FontSize.Size24 
     } 
+)
