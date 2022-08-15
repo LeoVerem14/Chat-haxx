@@ -1,0 +1,91 @@
+game.StarterGui:SetCore( 
+    "ChatMakeSystemMessage",  { 
+        Text = "[Chat hack loader] Getting githib storage.", 
+        Color = Color3.fromRGB( 7,168,88 ), 
+        Font = Enum.Font.Arial, 
+        FontSize = Enum.FontSize.Size24 
+    } 
+)
+wait(2)
+game.StarterGui:SetCore( 
+    "ChatMakeSystemMessage",  { 
+        Text = "[Chat hack loader] 14%", 
+        Color = Color3.fromRGB( 7,168,88 ), 
+        Font = Enum.Font.Arial, 
+        FontSize = Enum.FontSize.Size24 
+    } 
+)
+wait(2)
+game.StarterGui:SetCore( 
+    "ChatMakeSystemMessage",  { 
+        Text = "[Chat hack loader] P 42%", 
+        Color = Color3.fromRGB( 7,168,88 ), 
+        Font = Enum.Font.Arial, 
+        FontSize = Enum.FontSize.Size24 
+    } 
+)
+wait(2)
+game.StarterGui:SetCore( 
+    "ChatMakeSystemMessage",  { 
+        Text = "[Chat hack loader]  76%", 
+        Color = Color3.fromRGB( 7,168,88 ), 
+        Font = Enum.Font.Arial, 
+        FontSize = Enum.FontSize.Size24 
+    } 
+)
+wait(2)
+game.StarterGui:SetCore( 
+    "ChatMakeSystemMessage",  { 
+        Text = "[Chat hack loader]  82%", 
+        Color = Color3.fromRGB( 7,168,88 ), 
+        Font = Enum.Font.Arial, 
+        FontSize = Enum.FontSize.Size24 
+    } 
+)
+wait(2)
+game.StarterGui:SetCore( 
+    "ChatMakeSystemMessage",  { 
+        Text = "[Chat hack loader]  97%", 
+        Color = Color3.fromRGB( 7,168,88 ), 
+        Font = Enum.Font.Arial, 
+        FontSize = Enum.FontSize.Size24 
+    } 
+)
+wait(2)
+game.StarterGui:SetCore( 
+    "ChatMakeSystemMessage",  { 
+        Text = "[Chat hack loader] 99.99", 
+        Color = Color3.fromRGB( 7,168,88 ), 
+        Font = Enum.Font.Arial, 
+        FontSize = Enum.FontSize.Size24 
+    } 
+)
+wait(2)
+game.StarterGui:SetCore( 
+    "ChatMakeSystemMessage",  { 
+        Text = "[Chat hack loader] If you want RE-Start script exucute Again this script.", 
+        Color = Color3.fromRGB( 7,168,88 ), 
+        Font = Enum.Font.Arial, 
+        FontSize = Enum.FontSize.Size24 
+    } 
+)
+wait(0.001)
+game.StarterGui:SetCore( 
+    "ChatMakeSystemMessage",  { 
+        Text = "[Chat hack loader] Instruction: Say. It means to say. The username/ here this is to say from Username. Also, look at YouTube for a better instruction.", 
+        Color = Color3.fromRGB( 7,168,88 ), 
+        Font = Enum.Font.Arial, 
+        FontSize = Enum.FontSize.Size24 
+    } 
+)
+wait(0.001)
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ant-7802/--/main/straightmilk.lua'))()
+wait(30)
+game.StarterGui:SetCore( 
+    "ChatMakeSystemMessage",  { 
+        Text = "[Chat hack loader] Progress ended", 
+        Color = Color3.fromRGB( 7,168,88 ), 
+        Font = Enum.Font.Arial, 
+        FontSize = Enum.FontSize.Size24 
+    } 
