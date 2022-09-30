@@ -1,10 +1,14 @@
-game.StarterGui:SetCore( 
-    "ChatMakeSystemMessage",  { 
-        Text = "[Chat hack loader] Loaded bro Script by TheBigBebra (GET THIS SCRIPT IN SCRIPTBLOX!)", 
-        Color = Color3.fromRGB( 7,168,88 ), 
-        Font = Enum.Font.Arial, 
-        FontSize = Enum.FontSize.Size24 
-    } 
+wait(1.2)
+game.StarterGui:SetCore("SendNotification", {
+Title = "Welcome"; -- the title (ofc)
+Text = "Script by Thebigbebra"; -- what the text says (ofc)
+Icon = ""; -- the image if u want. 
+Duration = 5; -- how long the notification should in secounds
+})
+
+
+
+
 
 --Converted with ttyyuu12345's model to script plugin v4
 function sandbox(var,func)
@@ -106,7 +110,7 @@ TextLabel5.BackgroundTransparency = 1
 TextLabel5.BorderSizePixel = 0
 TextLabel5.Font = Enum.Font.SourceSans
 TextLabel5.FontSize = Enum.FontSize.Size14
-TextLabel5.Text = "FE Chat Hax | Made by antgame11"
+TextLabel5.Text = "FE Chat Hax | Made by LeoVeremUA"
 TextLabel5.TextColor = BrickColor.new("Institutional white")
 TextLabel5.TextColor3 = Color3.new(1, 1, 1)
 TextLabel5.TextScaled = true
